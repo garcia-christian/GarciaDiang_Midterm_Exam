@@ -1,3 +1,4 @@
 Garcia Diang Midterm Exam
 
-Midterm Part 1 - Video Essay
+Midterm Part 2 - SQL Statement Problems
+
